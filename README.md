@@ -23,7 +23,3 @@
 
 ## Support
 For support, questions, or contributions, please open an issue or a pull request in the repository.
-
----
-
-Note: This tool is designed for use within the Unity Editor. It is not intended for runtime use in games.
